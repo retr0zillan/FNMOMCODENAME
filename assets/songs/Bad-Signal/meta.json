@@ -1,0 +1,10 @@
+{
+	"displayName": "Bad-Signal",
+	"bpm": 180.0,
+	"icon": "bf",
+	"coopAllowed": false,
+	"opponentModeAllowed": false,
+	"customValues": {
+		"deathscript": "gameoverscript"
+	}
+}

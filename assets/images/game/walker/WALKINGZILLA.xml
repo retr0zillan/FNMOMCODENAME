@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WALKINGZILLA.png">
+<SubTexture name="WALKINGZILLA GODZILLASTATIC0000" x="0" y="0" width="72" height="65" frameX="-6" frameY="-11" frameWidth="84" frameHeight="82" />
+<SubTexture name="WALKINGZILLA GODZILLAWALKING0000" x="0" y="0" width="72" height="65" frameX="-6" frameY="-11" frameWidth="84" frameHeight="82" />
+<SubTexture name="WALKINGZILLA GODZILLAWALKING0001" x="72" y="0" width="73" height="65" frameX="-6" frameY="-11" frameWidth="84" frameHeight="82" />
+<SubTexture name="WALKINGZILLA GODZILLAWALKING0002" x="0" y="130" width="73" height="64" frameX="-6" frameY="-11" frameWidth="84" frameHeight="82" />
+<SubTexture name="WALKINGZILLA GODZILLAWALKING0003" x="0" y="65" width="73" height="65" frameX="-6" frameY="-11" frameWidth="84" frameHeight="82" />
+<SubTexture name="WALKINGZILLA GODZILLAWALKING0004" x="73" y="65" width="72" height="65" frameX="-6" frameY="-11" frameWidth="84" frameHeight="82" />
+<SubTexture name="WALKINGZILLA GODZILLAWALKING0005" x="145" y="0" width="73" height="65" frameX="-6" frameY="-11" frameWidth="84" frameHeight="82" />
+<SubTexture name="WALKINGZILLA GODZILLAWALKING0006" x="73" y="130" width="74" height="64" frameX="-6" frameY="-11" frameWidth="84" frameHeight="82" />
+<SubTexture name="WALKINGZILLA GODZILLAWALKING0007" x="145" y="65" width="73" height="65" frameX="-6" frameY="-11" frameWidth="84" frameHeight="82" />
+</TextureAtlas>

@@ -1,0 +1,14 @@
+{
+	"params": [
+		{
+			"name": "Which character to change?",
+			"type": "StrumLine",
+			"defaultValue": 0
+		},
+		{
+			"name": "Whats the prefix?",
+			"type": "String",
+			"defaultValue": ""
+		}
+	]
+}

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="suitmation" folder="stages/suitmation/" startCamPosY="365" startCamPosX="479">
+	<sprite name="bg"   x="0" y="0" antialiasing = "true"  sprite="analog_godzilla_bg"/>
+
+	<girlfriend x = "420" y = "590"/>
+	<dad x = "640" y= "460"/>
+	<boyfriend x = "-42" y = "764"/>
+
+
+</stage>

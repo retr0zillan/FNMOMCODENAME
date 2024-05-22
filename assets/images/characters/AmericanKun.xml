@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AmericanKun.png">
+<SubTexture name="AmericanKun Kunidle0000" x="170" y="326" width="57" height="53" frameX="-16" frameY="-23" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun Kunidle0001" x="58" y="326" width="56" height="54" frameX="-16" frameY="-22" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun Kunidle0002" x="377" y="168" width="56" height="55" frameX="-16" frameY="-21" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun Kunidle0003" x="313" y="174" width="55" height="56" frameX="-17" frameY="-20" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun Kunidle0004" x="210" y="267" width="55" height="56" frameX="-17" frameY="-20" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunLeft0000" x="265" y="267" width="56" height="56" frameX="-14" frameY="-20" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunLeft0001" x="321" y="267" width="56" height="56" frameX="-15" frameY="-20" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunLeft0002" x="377" y="0" width="57" height="56" frameX="-15" frameY="-20" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunUp0000" x="313" y="59" width="56" height="58" frameX="-16" frameY="-18" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunUp0001" x="313" y="117" width="56" height="57" frameX="-16" frameY="-19" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunUp0002" x="377" y="56" width="56" height="56" frameX="-16" frameY="-20" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunDown0000" x="227" y="326" width="57" height="53" frameX="-16" frameY="-23" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunDown0001" x="114" y="326" width="56" height="54" frameX="-16" frameY="-22" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunDown0002" x="377" y="223" width="56" height="55" frameX="-16" frameY="-21" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunRight0000" x="0" y="326" width="58" height="56" frameX="-17" frameY="-20" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunRight0001" x="377" y="112" width="57" height="56" frameX="-17" frameY="-20" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIntro0000" x="313" y="174" width="55" height="56" frameX="-17" frameY="-20" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIntro0001" x="313" y="174" width="55" height="56" frameX="-17" frameY="-20" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIntro0002" x="0" y="76" width="65" height="71" frameX="-7" frameY="-5" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIntro0003" x="284" y="326" width="73" height="53" frameX="0" frameY="-23" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIntro0004" x="65" y="76" width="71" height="61" frameX="-1" frameY="-15" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIntro0005" x="172" y="0" width="71" height="60" frameX="-1" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIntro0006" x="172" y="0" width="71" height="60" frameX="-1" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIntro0007" x="172" y="0" width="71" height="60" frameX="-1" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIntro0008" x="172" y="60" width="71" height="60" frameX="-1" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIntro0009" x="0" y="147" width="64" height="60" frameX="-8" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIdle0000" x="214" y="207" width="67" height="59" frameX="-7" frameY="-17" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIdle0001" x="72" y="267" width="65" height="58" frameX="-8" frameY="-18" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIdle0002" x="313" y="0" width="64" height="59" frameX="-8" frameY="-17" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIdle0003" x="64" y="147" width="64" height="60" frameX="-8" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryIdle0004" x="128" y="147" width="64" height="60" frameX="-8" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryLeft0000" x="243" y="0" width="70" height="60" frameX="0" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryLeft0001" x="243" y="60" width="70" height="60" frameX="-1" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryLeft0002" x="243" y="120" width="67" height="60" frameX="-5" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryUp0000" x="0" y="0" width="58" height="76" frameX="-15" frameY="0" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryUp0001" x="58" y="0" width="57" height="75" frameX="-16" frameY="-1" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryUp0002" x="115" y="0" width="57" height="72" frameX="-16" frameY="-4" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryDown0000" x="137" y="267" width="73" height="58" frameX="0" frameY="-19" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryDown0001" x="0" y="267" width="72" height="59" frameX="0" frameY="-18" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryDown0002" x="0" y="207" width="72" height="60" frameX="0" frameY="-17" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryRight0000" x="72" y="207" width="72" height="60" frameX="-17" frameY="-16" frameWidth="49" frameHeight="49" />
+<SubTexture name="AmericanKun KunAngryRight0001" x="144" y="207" width="70" height="60" frameX="-17" frameY="-16" frameWidth="49" frameHeight="49" />
+</TextureAtlas>

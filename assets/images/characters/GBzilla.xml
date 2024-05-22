@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GBzilla.png">
+<SubTexture name="GBzilla Idle0000" x="68" y="36" width="19" height="17" frameX="-16" frameY="-17" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla Idle0001" x="18" y="19" width="17" height="18" frameX="-16" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla Idle0002" x="0" y="0" width="17" height="19" frameX="-16" frameY="-15" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla Idle0003" x="17" y="0" width="17" height="19" frameX="-16" frameY="-15" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla Idle0004" x="34" y="0" width="17" height="19" frameX="-16" frameY="-15" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla Idle0005" x="51" y="0" width="17" height="18" frameX="-16" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla right0000" x="0" y="38" width="18" height="18" frameX="-18" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla right0001" x="18" y="38" width="18" height="18" frameX="-17" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla up0000" x="0" y="19" width="18" height="19" frameX="-16" frameY="-15" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla up0001" x="36" y="38" width="18" height="18" frameX="-16" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla down0000" x="0" y="56" width="18" height="15" frameX="-16" frameY="-19" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla down0001" x="51" y="18" width="17" height="17" frameX="-16" frameY="-17" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla left0000" x="68" y="0" width="20" height="18" frameX="-13" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GBzilla left0001" x="68" y="18" width="19" height="18" frameX="-14" frameY="-16" frameWidth="48" frameHeight="49" />
+</TextureAtlas>

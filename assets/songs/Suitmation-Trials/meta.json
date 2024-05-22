@@ -1,0 +1,10 @@
+{
+	"displayName": "Suitmation-Trials",
+	"bpm": 186.0,
+	"icon": "bf",
+	"coopAllowed": false,
+	"opponentModeAllowed": false,
+	"customValues": {
+		"deathscript": "defaultgameover"
+	}
+}

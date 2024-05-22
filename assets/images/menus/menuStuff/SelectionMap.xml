@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SelectionMap.png">
+<SubTexture name="SelectionMap Mogueranotselected0000" x="92" y="39" width="24" height="32" frameX="-13" frameY="-9" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap Mogueraselected0000" x="54" y="80" width="24" height="32" frameX="-13" frameY="-9" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap GezoranoSelected0000" x="27" y="80" width="27" height="33" frameX="-12" frameY="-8" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap GezoraSelected0000" x="0" y="80" width="27" height="34" frameX="-12" frameY="-8" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap TitanoNoselected0000" x="0" y="0" width="34" height="40" frameX="-11" frameY="0" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap Titanoselected0000" x="34" y="0" width="34" height="40" frameX="-11" frameY="0" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap BiollanteNoSelected0000" x="116" y="0" width="42" height="32" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap BiollanteSelected0000" x="116" y="32" width="42" height="32" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap GodzillaNoselected0000" x="116" y="64" width="24" height="32" frameX="-13" frameY="-7" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap Godzillaselected0000" x="78" y="80" width="24" height="32" frameX="-13" frameY="-7" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap MothraNoSelected0000" x="0" y="114" width="22" height="32" frameX="-15" frameY="-7" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap MothraSelected0000" x="22" y="114" width="22" height="32" frameX="-15" frameY="-7" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap VaranNoSelected0000" x="68" y="0" width="24" height="40" frameX="-14" frameY="-3" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap VaranNoSelected0001" x="92" y="0" width="24" height="39" frameX="-14" frameY="-4" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap VaranNoSelected0002" x="0" y="40" width="24" height="40" frameX="-14" frameY="-3" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap VaranSelected0000" x="24" y="40" width="24" height="40" frameX="-14" frameY="-3" frameWidth="50" frameHeight="50" />
+<SubTexture name="SelectionMap VaranSelected0001" x="48" y="40" width="24" height="40" frameX="-14" frameY="-3" frameWidth="50" frameHeight="50" />
+</TextureAtlas>

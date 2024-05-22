@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.1" name="madden" folder="stages/madden/" startCamPosY="365" startCamPosX="479">
+	<sprite name="fire"      x="102" y="-215"   sprite="Fuego"  scale = "12.5">
+	<anim name = "loop" anim = "Fuego idle" loop = "true"/>
+	</sprite>
+
+	<girlfriend x = "420" y = "590"/>
+
+	<dad x = "-26" y= "-53"/>
+	<boyfriend x = "-499" y = "-156"/>
+
+
+</stage>

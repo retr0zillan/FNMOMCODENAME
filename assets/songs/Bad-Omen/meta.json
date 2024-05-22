@@ -1,0 +1,10 @@
+{
+	"displayName": "Bad-Omen",
+	"bpm": 190.0,
+	"icon": "bf",
+	"coopAllowed": false,
+	"opponentModeAllowed": false,
+	"customValues": {
+		"deathscript": "gameoverscript"
+	}
+}

@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" scale = "9.8" antialiasing = "false" isGF="true" x="0" y="0" sprite = "gf_gameboy">
+	<anim name="idle"      anim="gf gameboy Idlegf"   fps="12" loop="false" />
+
+</character>

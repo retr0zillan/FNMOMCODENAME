@@ -1,0 +1,10 @@
+{
+	"displayName": "Out-Of-Place",
+	"bpm": 205.0,
+	"icon": "bf",
+	"coopAllowed": false,
+	"opponentModeAllowed": false,
+	"customValues": {
+		"deathscript": "gameoverscript"
+	}
+}

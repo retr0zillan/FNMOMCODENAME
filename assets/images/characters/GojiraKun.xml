@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GojiraKun.png">
+<SubTexture name="GojiraKun Idle0000" x="178" y="52" width="27" height="25" frameX="-16" frameY="-17" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Idle0001" x="127" y="0" width="25" height="26" frameX="-16" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Idle0002" x="51" y="50" width="25" height="27" frameX="-16" frameY="-15" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Idle0003" x="76" y="50" width="25" height="27" frameX="-16" frameY="-15" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Idle0004" x="102" y="0" width="25" height="27" frameX="-16" frameY="-15" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Idle0005" x="127" y="26" width="25" height="26" frameX="-16" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Right0000" x="0" y="105" width="26" height="26" frameX="-18" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Right0001" x="26" y="105" width="26" height="26" frameX="-17" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Up0000" x="0" y="78" width="26" height="27" frameX="-16" frameY="-15" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Up0001" x="52" y="105" width="26" height="26" frameX="-16" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Down0000" x="152" y="78" width="26" height="23" frameX="-16" frameY="-19" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Down0001" x="178" y="77" width="25" height="25" frameX="-16" frameY="-17" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Left0000" x="78" y="105" width="28" height="26" frameX="-13" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun Left0001" x="106" y="105" width="27" height="26" frameX="-14" frameY="-16" frameWidth="48" frameHeight="49" />
+<SubTexture name="GojiraKun IdleHatred0000" x="178" y="102" width="27" height="25" frameX="-27" frameY="-28" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdleHatred0001" x="102" y="27" width="25" height="27" frameX="-27" frameY="-26" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdleHatred0002" x="52" y="0" width="25" height="28" frameX="-27" frameY="-25" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdleHatred0003" x="77" y="0" width="25" height="28" frameX="-27" frameY="-25" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdleHatred0004" x="0" y="50" width="25" height="28" frameX="-27" frameY="-25" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdleHatred0005" x="127" y="52" width="25" height="26" frameX="-27" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun HatredRight0000" x="152" y="0" width="26" height="26" frameX="-29" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun HatredRight0001" x="152" y="26" width="26" height="26" frameX="-28" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun HatredUp0000" x="25" y="50" width="26" height="28" frameX="-27" frameY="-25" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun HatredUp0001" x="152" y="52" width="26" height="26" frameX="-27" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun HatredDown0000" x="152" y="101" width="26" height="23" frameX="-27" frameY="-30" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun HatredDown0001" x="178" y="127" width="25" height="25" frameX="-27" frameY="-28" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun HatredLeft0000" x="0" y="131" width="28" height="26" frameX="-24" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun HatredLeft0001" x="28" y="131" width="27" height="26" frameX="-25" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdlePunch0000" x="79" y="157" width="31" height="25" frameX="-27" frameY="-28" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdlePunch0001" x="55" y="131" width="32" height="26" frameX="-27" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdlePunch0002" x="26" y="78" width="32" height="27" frameX="-27" frameY="-26" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdlePunch0003" x="58" y="78" width="31" height="27" frameX="-27" frameY="-26" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdlePunch0004" x="89" y="78" width="31" height="27" frameX="-27" frameY="-26" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun IdlePunch0005" x="87" y="131" width="30" height="26" frameX="-27" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun RightPunch0000" x="117" y="131" width="42" height="26" frameX="-29" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun RightPunch0001" x="178" y="0" width="37" height="26" frameX="-28" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun Up Punch0000" x="0" y="0" width="26" height="50" frameX="-27" frameY="-3" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun Up Punch0001" x="26" y="0" width="26" height="45" frameX="-27" frameY="-8" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun DownPunch0000" x="110" y="157" width="43" height="25" frameX="-27" frameY="-30" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun DownPunch0001" x="0" y="157" width="40" height="26" frameX="-27" frameY="-28" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun LeftPunch0000" x="40" y="157" width="39" height="26" frameX="-13" frameY="-27" frameWidth="70" frameHeight="70" />
+<SubTexture name="GojiraKun LeftPunch0001" x="178" y="26" width="36" height="26" frameX="-16" frameY="-27" frameWidth="70" frameHeight="70" />
+</TextureAtlas>

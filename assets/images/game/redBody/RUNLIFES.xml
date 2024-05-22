@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RUNLIFES.png">
+<SubTexture name="RUNLIFES TRESVIDAS0000" x="65" y="146" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES VIDA PERDIDAUNO0000" x="0" y="0" width="66" height="49" frameX="-8" frameY="-11" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES VIDA PERDIDAUNO0001" x="66" y="0" width="67" height="49" frameX="-8" frameY="-11" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES VIDA PERDIDAUNO0002" x="128" y="146" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES DOSVIDASLOOP0000" x="198" y="0" width="64" height="47" frameX="-8" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES DOSVIDASLOOP0001" x="198" y="47" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES DOSVIDASLOOP0002" x="198" y="94" width="64" height="47" frameX="-8" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES DOSVIDASLOOP0003" x="198" y="141" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES DOSVIDASLOOP0004" x="0" y="194" width="64" height="47" frameX="-8" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES DOSVIDASLOOP0005" x="64" y="194" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES DOSVIDASLOOP0006" x="127" y="194" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES VIDAPERDIDADOS0000" x="0" y="49" width="65" height="49" frameX="-8" frameY="-11" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES VIDAPERDIDADOS0001" x="133" y="0" width="65" height="48" frameX="-8" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES VIDAPERDIDADOS0002" x="190" y="194" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES UNAVIDALOOP0000" x="133" y="48" width="64" height="48" frameX="-8" frameY="-11" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES UNAVIDALOOP0001" x="0" y="98" width="64" height="48" frameX="-8" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES UNAVIDALOOP0002" x="64" y="98" width="64" height="48" frameX="-8" frameY="-11" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES UNAVIDALOOP0003" x="262" y="0" width="64" height="47" frameX="-8" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES UNAVIDALOOP0004" x="0" y="241" width="65" height="47" frameX="-7" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES UNAVIDALOOP0005" x="128" y="98" width="64" height="48" frameX="-8" frameY="-11" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES UNAVIDALOOP0006" x="262" y="47" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES VIDAPERDIDATRES0000" x="65" y="49" width="66" height="49" frameX="-7" frameY="-11" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES VIDAPERDIDATRES0001" x="0" y="146" width="65" height="48" frameX="-8" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES VIDAPERDIDATRES0002" x="262" y="94" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES CEROVIDASLOOP0000" x="262" y="94" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES CEROVIDASLOOP0001" x="262" y="141" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES CEROVIDASLOOP0002" x="262" y="188" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES CEROVIDASLOOP0003" x="262" y="94" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES CEROVIDASLOOP0004" x="65" y="241" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES CEROVIDASLOOP0005" x="128" y="241" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+<SubTexture name="RUNLIFES CEROVIDASLOOP0006" x="191" y="241" width="63" height="47" frameX="-9" frameY="-12" frameWidth="35" frameHeight="20" />
+</TextureAtlas>

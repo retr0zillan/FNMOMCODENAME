@@ -1,0 +1,10 @@
+{
+	"displayName": "Amoeba",
+	"bpm": 186.0,
+	"icon": "bf",
+	"coopAllowed": false,
+	"opponentModeAllowed": false,
+	"customValues": {
+		"deathscript": "gameoverscript"
+	}
+}

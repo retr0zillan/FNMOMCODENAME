@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.3" name="gameboy" folder="stages/gameboy/" startCamPosY="365" startCamPosX="479">
+	<sprite name="rocks"   scale = "11" x="389" y="327" antialiasing = "false"  sprite="rocks"/>
+
+
+	<girlfriend x = "420" y = "590"/>
+
+	<dad x = "874" y= "779"/>
+	<boyfriend x = "-42" y = "764"/>
+
+
+</stage>

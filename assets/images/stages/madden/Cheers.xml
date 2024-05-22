@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cheers.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cheers Fade0000" x="4" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0001" x="4" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0002" x="4" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0003" x="968" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0004" x="968" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0005" x="968" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0006" x="1932" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0007" x="1932" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0008" x="1932" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0009" x="2896" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0010" x="2896" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Fade0011" x="2896" y="4" width="960" height="448"/>
+	<SubTexture name="Cheers Idle0000" x="4" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Idle0001" x="4" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Idle0002" x="4" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Idle0003" x="968" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Idle0004" x="968" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Idle0005" x="968" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Idle0006" x="1932" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Idle0007" x="1932" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Idle0008" x="1932" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0000" x="2896" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0001" x="2896" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0002" x="2896" y="456" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0003" x="4" y="908" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0004" x="4" y="908" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0005" x="4" y="908" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0006" x="968" y="908" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0007" x="968" y="908" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0008" x="968" y="908" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0009" x="1932" y="908" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0010" x="1932" y="908" width="960" height="448"/>
+	<SubTexture name="Cheers Intro0011" x="1932" y="908" width="960" height="448"/>
+</TextureAtlas>

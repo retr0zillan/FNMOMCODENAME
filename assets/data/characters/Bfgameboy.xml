@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Bfgameboy" y="0" isGF="false" scale="9.8" flipX="true" isPlayer="true" antialiasing="false" sprite="Bfgameboy">
+	<anim x="-5" loop="false" y="0" fps="12" anim="boyfriend gameboy Idle" name="idle"/>
+	<anim x="-7" loop="false" y="0" fps="12" anim="boyfriend gameboy up" name="singUP"/>
+	<anim x="-7" loop="false" y="0" fps="12" anim="boyfriend gameboy left" name="singLEFT"/>
+	<anim x="-7" loop="false" y="0" fps="12" anim="boyfriend gameboy right" name="singRIGHT"/>
+	<anim x="-7" loop="false" y="0" fps="12" anim="boyfriend gameboy down" name="singDOWN"/>
+	<anim x="-7" loop="false" y="0" fps="12" anim="boyfriend gameboy UPMISS" name="singUPmiss"/>
+	<anim x="-7" loop="false" y="0" fps="12" anim="boyfriend gameboy LEFTMISS" name="singLEFTmiss"/>
+	<anim x="-7" loop="false" y="0" fps="12" anim="boyfriend gameboy RIGHTMISS" name="singRIGHTmiss"/>
+	<anim x="-7" loop="false" y="0" fps="12" anim="boyfriend gameboy DOWNMISS" name="singDOWNmiss"/>
+	<anim x="-2" loop="false" y="16" fps="12" anim="boyfriend gameboy death intro" name="firstDeath"/>
+	<anim x="-7" loop="false" y="16" fps="12" anim="boyfriend gameboy death enter" name="deathConfirm"/>
+	<anim x="-2" loop="true" y="16" fps="12" anim="boyfriend gameboy deathloop" name="deathLoop"/>
+</character>

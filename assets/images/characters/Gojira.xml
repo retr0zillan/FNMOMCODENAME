@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gojira.png">
+<SubTexture name="HDzilla idle0000" x="100" y="579" width="105" height="107" frameX="-95" frameY="-22" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla idle0001" x="0" y="579" width="100" height="109" frameX="-96" frameY="-20" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla idle0002" x="237" y="468" width="97" height="110" frameX="-97" frameY="-19" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla idle0003" x="365" y="356" width="95" height="111" frameX="-98" frameY="-18" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla left0000" x="94" y="243" width="140" height="112" frameX="-72" frameY="-19" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla left0001" x="234" y="243" width="135" height="112" frameX="-77" frameY="-19" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla left0002" x="391" y="0" width="130" height="112" frameX="-82" frameY="-19" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla left0003" x="391" y="112" width="128" height="112" frameX="-84" frameY="-19" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla up0000" x="96" y="0" width="98" height="120" frameX="-94" frameY="-9" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla up0001" x="0" y="125" width="98" height="118" frameX="-94" frameY="-11" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla up0002" x="292" y="0" width="99" height="115" frameX="-95" frameY="-14" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla up0003" x="0" y="243" width="94" height="113" frameX="-97" frameY="-16" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla right0000" x="391" y="224" width="89" height="112" frameX="-103" frameY="-16" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla right0001" x="0" y="356" width="87" height="112" frameX="-102" frameY="-16" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla right0002" x="87" y="356" width="86" height="112" frameX="-100" frameY="-16" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla right0003" x="521" y="0" width="87" height="111" frameX="-98" frameY="-17" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla down0000" x="608" y="422" width="92" height="101" frameX="-92" frameY="-28" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla down0001" x="608" y="319" width="92" height="103" frameX="-93" frameY="-26" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla down0002" x="608" y="215" width="91" height="104" frameX="-95" frameY="-25" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla down0003" x="608" y="110" width="92" height="105" frameX="-95" frameY="-24" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla leftmiss0000" x="0" y="468" width="144" height="111" frameX="-72" frameY="-19" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla leftmiss0001" x="334" y="468" width="131" height="110" frameX="-64" frameY="-20" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla leftmiss0002" x="98" y="125" width="118" height="116" frameX="-82" frameY="-14" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla leftmiss0003" x="205" y="579" width="121" height="107" frameX="-84" frameY="-19" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla upmiss0000" x="194" y="0" width="98" height="120" frameX="-94" frameY="-9" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla upmiss0001" x="0" y="0" width="96" height="125" frameX="-94" frameY="-4" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla upmiss0002" x="292" y="115" width="99" height="115" frameX="-95" frameY="-14" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla upmiss0003" x="173" y="356" width="103" height="112" frameX="-87" frameY="-17" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla rightmiss0000" x="276" y="356" width="89" height="112" frameX="-103" frameY="-16" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla rightmiss0001" x="144" y="468" width="93" height="111" frameX="-102" frameY="-17" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla rightmiss0002" x="465" y="468" width="91" height="110" frameX="-102" frameY="-16" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla rightmiss0003" x="608" y="0" width="92" height="110" frameX="-96" frameY="-18" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla downmiss0000" x="700" y="0" width="92" height="101" frameX="-92" frameY="-28" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla downmiss0001" x="547" y="579" width="99" height="103" frameX="-92" frameY="-26" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla downmiss0002" x="326" y="579" width="95" height="106" frameX="-94" frameY="-24" frameWidth="200" frameHeight="100" />
+<SubTexture name="HDzilla downmiss0003" x="421" y="579" width="126" height="104" frameX="-76" frameY="-24" frameWidth="200" frameHeight="100" />
+</TextureAtlas>

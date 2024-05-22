@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Melissa.png">
+<SubTexture name="Melissa Intro0000" x="0" y="0" width="107" height="232" frameX="-386" frameY="-30" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Intro0001" x="731" y="0" width="131" height="216" frameX="-369" frameY="-105" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Intro0002" x="0" y="682" width="184" height="197" frameX="-331" frameY="-250" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Intro0003" x="107" y="0" width="159" height="231" frameX="-347" frameY="-206" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Intro0004" x="563" y="0" width="168" height="224" frameX="-342" frameY="-221" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Intro0005" x="230" y="232" width="159" height="228" frameX="-347" frameY="-212" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Intro0006" x="563" y="224" width="168" height="221" frameX="-342" frameY="-223" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Intro0007" x="0" y="461" width="168" height="221" frameX="-342" frameY="-224" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Intro0008" x="168" y="461" width="168" height="221" frameX="-342" frameY="-224" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Idle0000" x="862" y="0" width="166" height="215" frameX="-345" frameY="-230" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Idle0001" x="504" y="461" width="168" height="217" frameX="-341" frameY="-228" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Idle0002" x="336" y="461" width="168" height="220" frameX="-342" frameY="-225" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Idle0003" x="168" y="461" width="168" height="221" frameX="-342" frameY="-224" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Idle0004" x="168" y="461" width="168" height="221" frameX="-342" frameY="-224" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Idle0005" x="168" y="461" width="168" height="221" frameX="-342" frameY="-224" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa Idle0006" x="168" y="461" width="168" height="221" frameX="-342" frameY="-224" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa End0000" x="168" y="461" width="168" height="221" frameX="-342" frameY="-224" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa End0001" x="389" y="232" width="161" height="225" frameX="-345" frameY="-219" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa End0002" x="266" y="0" width="155" height="230" frameX="-349" frameY="-206" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa End0003" x="421" y="0" width="142" height="229" frameX="-356" frameY="-175" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa End0004" x="0" y="232" width="125" height="229" frameX="-365" frameY="-143" frameWidth="700" frameHeight="700" />
+<SubTexture name="Melissa End0005" x="125" y="232" width="105" height="229" frameX="-374" frameY="-49" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

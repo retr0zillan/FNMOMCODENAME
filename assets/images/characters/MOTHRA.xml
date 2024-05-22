@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MOTHRA.png">
+<SubTexture name="MOTHRA Idle0000" x="0" y="0" width="75" height="91" frameX="-44" frameY="-5" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Idle0001" x="499" y="197" width="77" height="62" frameX="-42" frameY="-34" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Idle0002" x="499" y="315" width="75" height="52" frameX="-44" frameY="-51" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Idle0003" x="0" y="91" width="76" height="78" frameX="-43" frameY="-18" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Up0000" x="228" y="77" width="97" height="75" frameX="-42" frameY="-13" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Up0001" x="228" y="0" width="97" height="77" frameX="-42" frameY="-16" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Up0002" x="0" y="169" width="123" height="75" frameX="-29" frameY="-18" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Up0003" x="123" y="169" width="133" height="75" frameX="-24" frameY="-20" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Left0000" x="76" y="91" width="61" height="78" frameX="-36" frameY="-35" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Left0001" x="201" y="319" width="51" height="73" frameX="-53" frameY="-36" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Left0002" x="75" y="0" width="78" height="79" frameX="-18" frameY="-34" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Left0003" x="252" y="319" width="51" height="73" frameX="-55" frameY="-36" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Down0000" x="325" y="225" width="104" height="74" frameX="-66" frameY="-53" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Down0001" x="303" y="319" width="101" height="73" frameX="-65" frameY="-52" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Down0002" x="0" y="393" width="71" height="72" frameX="-65" frameY="-49" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Down0003" x="71" y="393" width="70" height="71" frameX="-64" frameY="-49" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Right0000" x="0" y="244" width="89" height="75" frameX="-77" frameY="-18" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Right0001" x="89" y="244" width="89" height="75" frameX="-76" frameY="-18" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Right0002" x="499" y="0" width="80" height="67" frameX="-75" frameY="-25" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Right0003" x="499" y="259" width="74" height="56" frameX="-72" frameY="-36" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA UpMiss0000" x="178" y="244" width="97" height="75" frameX="-42" frameY="-13" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA UpMiss0001" x="0" y="319" width="97" height="74" frameX="-42" frameY="-16" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA idle0000" x="325" y="0" width="123" height="75" frameX="-29" frameY="-18" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA UpMiss0002" x="242" y="393" width="117" height="69" frameX="-35" frameY="-26" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Left Miss0000" x="137" y="91" width="61" height="78" frameX="-36" frameY="-35" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Left Miss0001" x="448" y="0" width="51" height="73" frameX="-53" frameY="-36" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Left Miss0002" x="153" y="0" width="75" height="79" frameX="-19" frameY="-34" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA Left Miss0003" x="256" y="169" width="51" height="74" frameX="-55" frameY="-35" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA DownMiss0000" x="97" y="319" width="104" height="74" frameX="-66" frameY="-53" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA DownMiss0001" x="141" y="393" width="101" height="70" frameX="-65" frameY="-52" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA DownMiss0002" x="359" y="393" width="70" height="69" frameX="-65" frameY="-49" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA DownMiss0003" x="429" y="393" width="69" height="68" frameX="-64" frameY="-49" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA RightMiss0000" x="325" y="75" width="89" height="75" frameX="-77" frameY="-18" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA RightMiss0001" x="325" y="150" width="89" height="75" frameX="-76" frameY="-18" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA RightMiss0002" x="499" y="67" width="75" height="67" frameX="-76" frameY="-25" frameWidth="160" frameHeight="130" />
+<SubTexture name="MOTHRA RightMiss0003" x="499" y="134" width="72" height="63" frameX="-72" frameY="-30" frameWidth="160" frameHeight="130" />
+</TextureAtlas>

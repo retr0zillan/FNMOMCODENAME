@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.3" name="black" folder="stages/black/" startCamPosY="400">
+
+	<character name = "gojira" x="-1500" y="-1100"/>
+	<character name = "mothra" x="-1900" y="-1300"/>
+	<character name = "gezora" x="1364" y="334"/>
+	<character name = "titano" x="1383" y="287"/>
+	<character name = "moguera" x="1417" y="70"/>
+
+	
+</stage>

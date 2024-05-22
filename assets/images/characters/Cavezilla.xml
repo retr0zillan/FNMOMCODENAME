@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cavezilla.png">
+<SubTexture name="Cavezilla Idle0000" x="214" y="139" width="96" height="106" frameX="-192" frameY="-70" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla Idle0001" x="311" y="0" width="108" height="121" frameX="-186" frameY="-60" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla Idle0002" x="97" y="139" width="117" height="122" frameX="-176" frameY="-62" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla Idle0003" x="419" y="195" width="104" height="96" frameX="-184" frameY="-75" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla Idle0004" x="209" y="0" width="102" height="124" frameX="-185" frameY="-61" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla Left0000" x="227" y="374" width="112" height="91" frameX="-170" frameY="-70" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla Left0001" x="0" y="374" width="116" height="96" frameX="-163" frameY="-68" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla Left0002" x="0" y="262" width="110" height="112" frameX="-174" frameY="-53" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla right0000" x="110" y="262" width="114" height="112" frameX="-185" frameY="-51" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla right0001" x="311" y="121" width="106" height="112" frameX="-191" frameY="-49" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla right0002" x="116" y="374" width="111" height="93" frameX="-184" frameY="-72" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla down0000" x="419" y="98" width="108" height="97" frameX="-181" frameY="-70" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla down0001" x="419" y="0" width="122" height="98" frameX="-172" frameY="-64" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla down0002" x="224" y="262" width="109" height="99" frameX="-184" frameY="-64" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla up0000" x="94" y="0" width="115" height="129" frameX="-177" frameY="-32" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla up0001" x="0" y="139" width="97" height="123" frameX="-188" frameY="-38" frameWidth="300" frameHeight="200" />
+<SubTexture name="Cavezilla up0002" x="0" y="0" width="94" height="139" frameX="-180" frameY="-22" frameWidth="300" frameHeight="200" />
+</TextureAtlas>

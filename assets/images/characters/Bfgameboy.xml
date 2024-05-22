@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bfgameboy.png">
+<SubTexture name="boyfriend gameboy Idle0000" x="303" y="413" width="62" height="57" frameX="-9" frameY="-15" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy Idle0001" x="183" y="413" width="61" height="58" frameX="-10" frameY="-14" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy Idle0002" x="123" y="413" width="60" height="59" frameX="-11" frameY="-13" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy Idle0003" x="237" y="351" width="60" height="61" frameX="-10" frameY="-11" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy Idle0004" x="256" y="288" width="61" height="62" frameX="-9" frameY="-10" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy no lo uses yesnt 0000" x="63" y="413" width="60" height="60" frameX="-10" frameY="-12" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy right0000" x="373" y="0" width="59" height="62" frameX="-11" frameY="-10" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy right0001" x="373" y="62" width="58" height="62" frameX="-10" frameY="-10" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy right0002" x="373" y="124" width="58" height="62" frameX="-9" frameY="-10" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy down0000" x="244" y="413" width="59" height="58" frameX="-9" frameY="-14" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy down0001" x="432" y="61" width="58" height="60" frameX="-9" frameY="-12" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy down0002" x="297" y="351" width="58" height="61" frameX="-9" frameY="-11" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy left0000" x="0" y="351" width="61" height="62" frameX="-6" frameY="-10" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy left0001" x="373" y="186" width="59" height="62" frameX="-8" frameY="-10" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy left0002" x="373" y="248" width="58" height="62" frameX="-9" frameY="-10" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy up0000" x="120" y="220" width="59" height="65" frameX="-9" frameY="-7" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy up0001" x="308" y="64" width="59" height="64" frameX="-9" frameY="-8" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy RIGHTMISS0000" x="179" y="220" width="59" height="65" frameX="-11" frameY="-7" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy RIGHTMISS0001" x="308" y="192" width="58" height="63" frameX="-10" frameY="-9" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy RIGHTMISS0002" x="61" y="351" width="58" height="62" frameX="-9" frameY="-10" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy DOWNMISS0000" x="355" y="351" width="59" height="61" frameX="-9" frameY="-11" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy DOWNMISS0001" x="432" y="121" width="58" height="60" frameX="-9" frameY="-12" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy DOWNMISS0002" x="432" y="0" width="58" height="61" frameX="-9" frameY="-11" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy LEFTMISS0000" x="308" y="128" width="61" height="64" frameX="-6" frameY="-8" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy LEFTMISS0001" x="119" y="351" width="60" height="62" frameX="-7" frameY="-10" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy LEFTMISS0002" x="179" y="351" width="58" height="62" frameX="-9" frameY="-10" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy UPMISS0000" x="0" y="220" width="59" height="68" frameX="-9" frameY="-4" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy UPMISS0001" x="238" y="220" width="59" height="65" frameX="-9" frameY="-7" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy UPMISS0002" x="0" y="288" width="59" height="63" frameX="-9" frameY="-9" frameWidth="40" frameHeight="36" />
+<SubTexture name="boyfriend gameboy death intro0000" x="59" y="220" width="61" height="65" frameX="-10" frameY="-23" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0001" x="0" y="413" width="63" height="60" frameX="-9" frameY="-28" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0002" x="308" y="0" width="65" height="64" frameX="-6" frameY="-24" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0003" x="59" y="288" width="67" height="62" frameX="-5" frameY="-26" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0004" x="126" y="288" width="69" height="62" frameX="-4" frameY="-26" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0005" x="195" y="288" width="61" height="62" frameX="-10" frameY="-26" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0006" x="0" y="148" width="77" height="72" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0007" x="77" y="148" width="77" height="72" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0008" x="154" y="148" width="77" height="72" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0009" x="231" y="0" width="77" height="72" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0010" x="231" y="72" width="77" height="72" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0011" x="231" y="144" width="77" height="72" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0012" x="77" y="74" width="77" height="73" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0013" x="154" y="0" width="77" height="73" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0014" x="154" y="73" width="77" height="73" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death intro0015" x="0" y="0" width="77" height="74" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy deathloop0000" x="77" y="0" width="77" height="74" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy deathloop0001" x="0" y="74" width="77" height="74" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy deathloop0002" x="0" y="74" width="77" height="74" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy deathloop0003" x="77" y="0" width="77" height="74" frameX="-2" frameY="-16" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death enter0000" x="432" y="291" width="51" height="50" frameX="-13" frameY="-36" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death enter0001" x="432" y="181" width="56" height="55" frameX="-10" frameY="-33" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death enter0002" x="432" y="236" width="56" height="55" frameX="-12" frameY="-33" frameWidth="60" frameHeight="50" />
+<SubTexture name="boyfriend gameboy death enter0003" x="432" y="341" width="51" height="50" frameX="-13" frameY="-36" frameWidth="60" frameHeight="50" />
+</TextureAtlas>

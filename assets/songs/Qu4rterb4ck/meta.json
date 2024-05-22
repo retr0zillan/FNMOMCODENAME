@@ -1,0 +1,10 @@
+{
+	"displayName": "Qu4rterb4ck",
+	"bpm": 186.0,
+	"icon": "bf",
+	"coopAllowed": false,
+	"opponentModeAllowed": false,
+	"customValues": {
+		"deathscript": "defaultgameover"
+	}
+}

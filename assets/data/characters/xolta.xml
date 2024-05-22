@@ -1,0 +1,30 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="xolta" y="0" isGF="false" camx = "90" scale="2" flipX="true" isPlayer="true" antialiasing="false" sprite="Xolta">
+	<anim x="-5" loop="false" y="0" fps="12" anim="Xolta IdleNormal" name="idle"/>
+	<anim x="-29" loop="false" y="-23" fps="12" anim="Xolta UpNormal0" name="singUP"/>
+	<anim x="-68" loop="false" y="-6" fps="12" anim="Xolta LeftNormal0" name="singLEFT"/>
+	<anim x="12" loop="false" y="3" fps="12" anim="Xolta RightNormal0" name="singRIGHT"/>
+	<anim x="-20" loop="false" y="-10" fps="12" anim="Xolta DownNormal0" name="singDOWN"/>
+	<anim x="-35" loop="false" y="9" fps="12" anim="Xolta UpNormalMiss" name="singUPmiss"/>
+	<anim x="-47" loop="false" y="4" fps="12" anim="Xolta LeftNormalMiss" name="singLEFTmiss"/>
+	<anim x="-20" loop="false" y="1" fps="12" anim="Xolta RightNormalMiss" name="singRIGHTmiss"/>
+	<anim x="-40" loop="false" y="-20" fps="12" anim="Xolta DownNormalMiss" name="singDOWNmiss"/>
+	<anim x="7" loop="false" y="-9" fps="12" anim="Xolta DeusExEND" name="deusExEnd"/>
+	<anim x="-10" loop="false" y="-68" fps="12" anim="Xolta IamXolta" name="iamxolta"/>
+	<anim x="-1" loop="false" y="-9" fps="12" anim="Xolta HuhIntro" name="huhintro"/>
+	<anim x="-11" loop="true" y="-19" fps="12" anim="Xolta HuhLoop" name="huhloop"/>
+	<anim x="-11" loop="false" y="-19" fps="12" anim="Xolta HuhEnd" name="huhend"/>
+	<anim x="5" loop="false" y="-10" fps="12" anim="Xolta GuitarSpawn" name="guitarspawn"/>
+	<anim x="-11" loop="false" y="-3" fps="12" anim="Xolta Intro" name="intro"/>
+	<anim x="4" loop="false" y="-10" fps="12" anim="Xolta GuitarIdle" name="idle-guitar"/>
+	<anim x="-26" loop="false" y="-29" fps="12" anim="Xolta GuitarUp0" name="singUP-guitar"/>
+	<anim x="-71" loop="false" y="-14" fps="12" anim="Xolta GuitarLeft0" name="singLEFT-guitar"/>
+	<anim x="40" loop="false" y="-4" fps="12" anim="Xolta GuitarRight0" name="singRIGHT-guitar"/>
+	<anim x="-11" loop="false" y="-8" fps="12" anim="Xolta GuitarDown0" name="singDOWN-guitar"/>
+	<anim x="-11" loop="false" y="-24" fps="12" anim="Xolta GuitarUpMiss" name="singUPmiss-guitar"/>
+	<anim x="34" loop="false" y="-4" fps="12" anim="Xolta GuitarRightMiss" name="singRIGHTmiss-guitar"/>
+	<anim x="-66" loop="false" y="-19" fps="12" anim="Xolta GuitarLeftMiss" name="singLEFTmiss-guitar"/>
+	<anim x="-6" loop="false" y="-4" fps="12" anim="Xolta GuitarDownMiss" name="singDOWNmiss-guitar"/>
+	<anim x="4" loop="false" y="-9" fps="12" anim="Xolta GuitarBreak" name="guitardeath"/>
+	<anim x="-6" loop="false" y="-14" fps="12" anim="Xolta Hit0" name="getshit"/>
+</character>

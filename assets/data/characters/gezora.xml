@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" icon="gezora" y="200" isGF="false" scale="9" isPlayer="false" antialiasing="false" sprite="Gezora">
+	<anim x="0" loop="false" y="0" fps="12" anim="Gezora Idle0" name="idle"/>
+	<anim x="-2" loop="false" y="0" fps="12" anim="Gezora Up0" name="singUP"/>
+	<anim x="-8" loop="false" y="2" fps="12" anim="Gezora left0" name="singLEFT"/>
+	<anim x="7" loop="false" y="4" fps="12" anim="Gezora Right0" name="singRIGHT"/>
+	<anim x="-2" loop="false" y="0" fps="12" anim="Gezora Down0" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="Gezora IdleDying" name="idle-dying"/>
+	<anim x="-4" loop="false" y="1" fps="12" anim="Gezora Updying" name="singUP-dying"/>
+	<anim x="-7" loop="false" y="1" fps="12" anim="Gezora leftDying" name="singLEFT-dying"/>
+	<anim x="8" loop="false" y="1" fps="12" anim="Gezora RightDying" name="singRIGHT-dying"/>
+	<anim x="-2" loop="false" y="0" fps="12" anim="Gezora DownDying" name="singDOWN-dying"/>
+	<anim x="0" loop="false" y="0" fps="1" anim="Gezora DyingDyingForReal" name="dying"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="Gezora IdleGlitch" name="idle-glitch"/>
+	<anim x="-4" loop="false" y="1" fps="12" anim="Gezora Upglitch" name="singUP-glitch"/>
+	<anim x="-5" loop="false" y="2" fps="12" anim="Gezora LeftGlitch" name="singLEFT-glitch"/>
+	<anim x="8" loop="false" y="0" fps="12" anim="Gezora RightGlitch" name="singRIGHT-glitch"/>
+	<anim x="-1" loop="false" y="2" fps="12" anim="Gezora DownGlitch" name="singDOWN-glitch"/>
+	<anim x="-2" loop="false" y="-1" fps="12" anim="Gezora Upreference" name="reference"/>
+</character>

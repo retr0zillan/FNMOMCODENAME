@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CoverSelector.png">
+<SubTexture name="CoverSelector Godzillanot0000" x="0" y="0" width="48" height="34" frameX="0" frameY="-1" frameWidth="48" frameHeight="35" />
+<SubTexture name="CoverSelector Godzilla0000" x="48" y="0" width="48" height="34" frameX="0" frameY="-1" frameWidth="48" frameHeight="35" />
+<SubTexture name="CoverSelector MothraNot0000" x="0" y="34" width="48" height="34" frameX="0" frameY="-1" frameWidth="48" frameHeight="35" />
+<SubTexture name="CoverSelector Mothra0000" x="48" y="34" width="48" height="34" frameX="0" frameY="-1" frameWidth="48" frameHeight="35" />
+</TextureAtlas>

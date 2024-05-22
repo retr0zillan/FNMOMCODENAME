@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" icon="titano" y="200" isGF="false" scale="8.2" isPlayer="false" antialiasing="false" sprite="TitanoSaurus">
+	<anim x="0" loop="false" y="0" fps="7" anim="TitanoSaurus Idle" name="idle"/>
+	<anim x="1" loop="false" y="0" fps="12" anim="TitanoSaurus Up" name="singUP"/>
+	<anim x="4" loop="false" y="0" fps="12" anim="TitanoSaurus Left" name="singLEFT"/>
+	<anim x="3" loop="false" y="-3" fps="12" anim="TitanoSaurus Right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="1" fps="12" anim="TitanoSaurus Down" name="singDOWN"/>
+</character>

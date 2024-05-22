@@ -1,0 +1,437 @@
+{
+	"villains": {
+		"gezora": [
+			838,
+			431
+		],
+		"moguera": [
+			842,
+			269
+		],
+		"titano": [
+			993,
+			350
+		]
+	},
+	"tiles": [
+		[
+			280, 
+			335,
+			"squareOrangeBluespiral"
+		],
+		[
+			280, 
+			415,
+			"squareOrangeBluespiral"
+		],
+		[
+			280, 
+			495,
+			"squareOrangeFire"
+		],
+		[
+			280, 
+			255,
+			"squareOrangeFire"
+		],
+		[
+			360,
+			215,
+			"squareOrangeFire"
+		],
+		[
+			440, 
+			175,
+			"squareOrangeFire"
+		],
+		[
+			520, 
+			215,
+			"squareOrangeBluespiral"
+		],
+		[
+			360, 
+			535,
+			"squareOrangeFire"
+		],
+		[
+			440, 
+			575,
+			"squareOrangeBluespiral"
+		],
+		[
+			520, 
+			535,
+			"squareOrangeBluespiral"
+		],
+		[
+			600, 
+			175,
+			"squareOrangeFire"
+		],
+		[
+			600,
+			255,
+			"squareOrangeFire"
+		],
+		[
+			600, 
+			335,
+			"squareOrangeBluespiral"
+		],
+		[
+			600, 
+			415,
+			"squareOrangeBluespiral"
+		],
+		[
+			600, 
+			495,
+			"squareOrangeFire"
+		],
+		[
+			600,
+			575,
+			"squareOrangeFire"
+		],
+		[
+			680, 
+			215,
+			"squareOrangeFire"
+		],
+		[
+			680, 
+			295,
+			"squareOrangeFire"
+		],
+		[
+			680, 
+			375,
+			"squareOrangeFire"
+		],
+		[
+			680, 
+			455,
+			"squareOrangeFire"
+		],
+		[
+			680, 
+			535,
+			"squareOrangeFire"
+		],
+		[
+			760,
+			255,
+			"squareOrangeFire"
+		],
+		[
+			760, 
+			335,
+			"squareOrangeFire"
+		],
+		[
+			760, 
+			415,
+			"squareOrangeFire"
+		],
+		[
+			760, 
+			495,
+			"squareOrangeFire"
+		],
+		[
+			840, 
+			295,
+			"squareOrangeFire"
+		],
+		[
+			840, 
+			375,
+			"squareOrangeFire"
+		],
+		[
+			840,
+			455,
+			"squareOrangeFire"
+		],
+		[
+			920, 
+			335,
+			"squareOrangeCity"
+		],
+		[
+			920, 
+			415,
+			"squareOrangeCity"
+		],
+		[
+			1000, 
+			375,
+			"squareOrange"
+		]
+	],
+	"movemap": {
+		"0": [
+			3,
+			1,
+			null,
+			null,
+			null,
+			null
+		],
+		"11": [
+			10,
+			12,
+			16,
+			17,
+			6,
+			null
+		],
+		"22": [
+			21,
+			23,
+			25,
+			26,
+			17,
+			18
+		],
+		"1": [
+			0,
+			2,
+			null,
+			null,
+			null,
+			null
+		],
+		"12": [
+			11,
+			13,
+			17,
+			18,
+			null,
+			null
+		],
+		"23": [
+			22,
+			24,
+			26,
+			27,
+			18,
+			19
+		],
+		"2": [
+			1,
+			null,
+			null,
+			7,
+			null,
+			null
+		],
+		"13": [
+			12,
+			14,
+			18,
+			19,
+			null,
+			null
+		],
+		"24": [
+			23,
+			null,
+			27,
+			null,
+			19,
+			20
+		],
+		"3": [
+			null,
+			0,
+			4,
+			null,
+			null,
+			null
+		],
+		"14": [
+			13,
+			15,
+			19,
+			20,
+			null,
+			9
+		],
+		"25": [
+			null,
+			26,
+			null,
+			28,
+			21,
+			22
+		],
+		"4": [
+			null,
+			null,
+			5,
+			null,
+			null,
+			3
+		],
+		"15": [
+			14,
+			null,
+			20,
+			null,
+			9,
+			null
+		],
+		"26": [
+			25,
+			27,
+			28,
+			29,
+			22,
+			23
+		],
+		"5": [
+			null,
+			null,
+			null,
+			6,
+			null,
+			4
+		],
+		"16": [
+			null,
+			17,
+			null,
+			21,
+			10,
+			11
+		],
+		"27": [
+			26,
+			null,
+			29,
+			null,
+			23,
+			24
+		],
+		"6": [
+			null,
+			null,
+			10,
+			11,
+			5,
+			null
+		],
+		"17": [
+			16,
+			18,
+			21,
+			22,
+			11,
+			12
+		],
+		"28": [
+			null,
+			29,
+			null,
+			30,
+			25,
+			26
+		],
+		"7": [
+			null,
+			null,
+			null,
+			8,
+			2,
+			null
+		],
+		"18": [
+			17,
+			19,
+			22,
+			23,
+			12,
+			13
+		],
+		"29": [
+			28,
+			null,
+			30,
+			null,
+			26,
+			27
+		],
+		"8": [
+			null,
+			null,
+			9,
+			null,
+			7,
+			null
+		],
+		"19": [
+			18,
+			20,
+			23,
+			24,
+			13,
+			14
+		],
+		"9": [
+			null,
+			null,
+			14,
+			15,
+			null,
+			8
+		],
+		"30": [
+			null,
+			null,
+			null,
+			null,
+			28,
+			29
+		],
+		"20": [
+			19,
+			null,
+			24,
+			null,
+			14,
+			15
+		],
+		"10": [
+			null,
+			11,
+			null,
+			16,
+			null,
+			6
+		],
+		"21": [
+			null,
+			22,
+			null,
+			25,
+			16,
+			17
+		]
+	},
+	"actorsPosition": {
+		"godzilla": [
+			275,
+			315
+		],
+		"mothra": [
+			276,
+			401
+		],
+		"selector": [
+			280,
+			335
+		]
+	}
+}

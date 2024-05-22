@@ -1,0 +1,32 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="madden" y="0" camx = "-170" isGF="false" scale="2" isPlayer="false" antialiasing="false" sprite="MaddenFinal">
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal IdleNormal" name="idle"/>
+	<anim x="2" loop="false" y="0" fps="12" anim="MaddenFinal UpNormal" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal LeftNormal" name="singLEFT"/>
+	<anim x="-2" loop="false" y="0" fps="12" anim="MaddenFinal RightNormal" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal DownNormal" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal Deadth" name="dead"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal GuitarSpawn" name="guitar-spawn"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal GuitarraTirada" name="guitar-death"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal Mygame" name="mygame"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal Thats meee" name="thatsme"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal IdleGuitar" name="idle-guitar"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal UpGuitar" name="singUP-guitar"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal LeftGuitar" name="singLEFT-guitar"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal DownGuitar" name="singDOWN-guitar"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal RightGuitar" name="singRIGHT-guitar"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal GuitarSerIdle" name="idle-guitarmad"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal GuitarSerUp" name="singUP-guitarmad"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal GuitarSerLeft" name="singLEFT-guitarmad"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal GuitarSerDown" name="singDOWN-guitarmad"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal GuitarSerRight" name="singRIGHT-guitarmad"/>
+	<anim x="0" loop="true" y="0" fps="12" anim="MaddenFinal DeadLoop" name="deadloop"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal FinishedThatsMEEE" name="thatsme-final"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal PianoIdle" name="idle-piano"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal UpPiano" name="singUP-piano"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal LeftPiano" name="singLEFT-piano"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal RightPiano" name="singRIGHT-piano"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal DownPiano" name="singDOWN-piano"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal PianoBreak" name="pianobreak"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="MaddenFinal PianoSpawn" name="pianospawn"/>
+</character>

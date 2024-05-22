@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bbarras.png">
+<SubTexture name="Barras Selected0000" x="0" y="0" width="202" height="58" frameX="0" frameY="0" frameWidth="202" frameHeight="58" />
+<SubTexture name="Barras NoSelected0000" x="0" y="58" width="202" height="58" frameX="0" frameY="0" frameWidth="202" frameHeight="58" />
+</TextureAtlas>

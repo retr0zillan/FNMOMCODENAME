@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TooScratch.png">
+<SubTexture name="TooScratch ScratchIdle0000" x="0" y="0" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchIdle0001" x="240" y="0" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchIdle0002" x="0" y="240" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchIdle0003" x="240" y="240" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchUp0000" x="480" y="0" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchUp0001" x="480" y="240" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchUp0002" x="0" y="480" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchUp0003" x="240" y="480" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch Scratchleft0000" x="480" y="480" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch Scratchleft0001" x="720" y="0" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch Scratchleft0002" x="720" y="240" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch Scratchleft0003" x="720" y="480" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch Scratchright0000" x="0" y="720" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch Scratchright0001" x="240" y="720" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch Scratchright0002" x="480" y="720" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch Scratchright0003" x="720" y="720" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch Scratchright0004" x="960" y="0" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchDown0000" x="960" y="240" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchDown0001" x="960" y="480" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchDown0002" x="960" y="720" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch ScratchDown0003" x="0" y="960" width="240" height="240" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerIdle0000" x="583" y="1075" width="112" height="103" frameX="-65" frameY="-70" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerIdle0001" x="470" y="1075" width="113" height="104" frameX="-64" frameY="-69" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerIdle0002" x="1009" y="960" width="112" height="105" frameX="-65" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerIdle0003" x="670" y="960" width="112" height="107" frameX="-65" frameY="-66" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerUp0000" x="240" y="960" width="103" height="115" frameX="-65" frameY="-58" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerUp0001" x="343" y="960" width="103" height="113" frameX="-65" frameY="-60" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerUp0002" x="446" y="960" width="112" height="109" frameX="-65" frameY="-64" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerUp0003" x="558" y="960" width="112" height="108" frameX="-65" frameY="-65" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerLeft0000" x="240" y="1075" width="117" height="105" frameX="-52" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerLeft0001" x="357" y="1075" width="113" height="105" frameX="-57" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerLeft0002" x="782" y="960" width="112" height="106" frameX="-60" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerLeft0003" x="894" y="960" width="115" height="106" frameX="-59" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerRight0000" x="695" y="1075" width="128" height="101" frameX="-66" frameY="-72" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerRight0001" x="823" y="1075" width="122" height="101" frameX="-66" frameY="-72" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerRight0002" x="945" y="1075" width="121" height="101" frameX="-66" frameY="-72" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerRight0003" x="1066" y="1075" width="119" height="101" frameX="-66" frameY="-72" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerDown0000" x="246" y="1200" width="125" height="81" frameX="-57" frameY="-92" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerDown0001" x="124" y="1200" width="122" height="88" frameX="-59" frameY="-85" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerDown0002" x="0" y="1200" width="124" height="94" frameX="-61" frameY="-79" frameWidth="200" frameHeight="200" />
+<SubTexture name="TooScratch FakerDown0003" x="1200" y="0" width="118" height="101" frameX="-65" frameY="-72" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

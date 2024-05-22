@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="gojira" camx="700" y="0" isGF="false" scale="9" camy="1200" isPlayer="true" antialiasing="false" sprite="Gojira">
+	<anim x="-174" loop="false" y="-201" fps="12" anim="HDzilla idle" name="idle"/>
+	<anim x="-175" loop="false" y="-201" fps="12" anim="HDzilla up0" name="singUP"/>
+	<anim x="-168" loop="false" y="-201" fps="12" anim="HDzilla left0" name="singLEFT"/>
+	<anim x="-178" loop="false" y="-201" fps="12" anim="HDzilla right0" name="singRIGHT"/>
+	<anim x="-174" loop="false" y="-201" fps="12" anim="HDzilla down0" name="singDOWN"/>
+	<anim x="-179" loop="false" y="-201" fps="12" anim="HDzilla upmiss" name="singUPmiss"/>
+	<anim x="-169" loop="false" y="-201" fps="12" anim="HDzilla leftmiss" name="singLEFTmiss"/>
+	<anim x="-178" loop="false" y="-201" fps="12" anim="HDzilla rightmiss" name="singRIGHTmiss"/>
+	<anim x="-175" loop="false" y="-201" fps="12" anim="HDzilla downmiss" name="singDOWNmiss"/>
+</character>

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="suitmation" y="0" camy = "-160" camx = "-100" isGF="false" holdTime = "4" isPlayer="false" sprite="the suitmation trials">
+	<anim x="0" loop="true" y="0" fps="24" anim="TSTGODZILLA IDLE" name="idle"/>
+	<anim x="43" loop="false" y="192" fps="24" anim="TSTGODZILLA UP" name="singUP"/>
+	<anim x="276" loop="false" y="-161" fps="24" anim="TSTGODZILLA LEFT" name="singLEFT"/>
+	<anim x="-50" loop="false" y="-37" fps="24" anim="TSTGODZILLA RIGHT" name="singRIGHT"/>
+	<anim x="-8" loop="false" y="-118" fps="24" anim="TSTGODZILLA DOWN" name="singDOWN"/>
+	<anim x="-21" loop="false" y="17" fps="24" anim="TSTGODZILLA ENTER" name="enter"/>
+	<anim x="3" loop="false" y="48" fps="24" anim="TSTGODZILLA ALTUP" name="singUP-alt"/>
+	<anim x="37" loop="false" y="4" fps="24" anim="TSTGODZILLA ALTLEFT" name="singLEFT-alt"/>
+	<anim x="-56" loop="false" y="51" fps="24" anim="TSTGODZILLA ALTRIGHT" name="singRIGHT-alt"/>
+	<anim x="-1" loop="false" y="19" fps="24" anim="TSTGODZILLA ALTDOWN" name="singDOWN-alt"/>
+</character>

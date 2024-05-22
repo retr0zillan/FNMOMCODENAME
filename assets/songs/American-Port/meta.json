@@ -1,0 +1,10 @@
+{
+	"displayName": "American-Port",
+	"bpm": 186.0,
+	"icon": "bf",
+	"coopAllowed": false,
+	"opponentModeAllowed": false,
+	"customValues": {
+		"deathscript": "americangameover"
+	}
+}

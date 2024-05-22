@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cavekiller.png">
+<SubTexture name="cavekiller idle0000" x="332" y="274" width="93" height="93" frameX="-78" frameY="-47" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller idle0001" x="157" y="397" width="104" height="101" frameX="-69" frameY="-44" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller idle0002" x="99" y="274" width="113" height="116" frameX="-60" frameY="-43" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller idle0003" x="431" y="226" width="106" height="103" frameX="-63" frameY="-41" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller idle0004" x="212" y="274" width="120" height="116" frameX="-59" frameY="-40" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller right0000" x="0" y="0" width="146" height="140" frameX="-48" frameY="-36" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller right0001" x="0" y="397" width="157" height="108" frameX="-43" frameY="-44" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller right0002" x="431" y="0" width="147" height="113" frameX="-32" frameY="-41" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller left0000" x="343" y="0" width="88" height="124" frameX="-46" frameY="-27" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller left0001" x="0" y="274" width="99" height="123" frameX="-34" frameY="-20" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller left0002" x="210" y="140" width="102" height="126" frameX="-50" frameY="-31" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller down0000" x="121" y="140" width="89" height="133" frameX="-66" frameY="-41" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller down0001" x="146" y="0" width="91" height="137" frameX="-59" frameY="-23" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller down0002" x="261" y="397" width="104" height="95" frameX="-47" frameY="-42" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller up0000" x="237" y="0" width="106" height="135" frameX="-61" frameY="-20" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller up0001" x="0" y="140" width="121" height="134" frameX="-51" frameY="-28" frameWidth="300" frameHeight="200" />
+<SubTexture name="cavekiller up0002" x="431" y="113" width="112" height="113" frameX="-54" frameY="-40" frameWidth="300" frameHeight="200" />
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TitanoSaurus.png">
+<SubTexture name="TitanoSaurus Idle0000" x="117" y="254" width="124" height="113" frameX="-47" frameY="-29" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Idle0001" x="0" y="254" width="117" height="115" frameX="-50" frameY="-27" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Idle0002" x="244" y="131" width="118" height="119" frameX="-49" frameY="-23" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Idle0003" x="124" y="131" width="120" height="120" frameX="-47" frameY="-22" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Left0000" x="0" y="477" width="134" height="105" frameX="-24" frameY="-37" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Left0001" x="134" y="477" width="132" height="105" frameX="-26" frameY="-37" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Left0002" x="366" y="369" width="128" height="106" frameX="-29" frameY="-36" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Left0003" x="118" y="369" width="126" height="107" frameX="-30" frameY="-35" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Up0000" x="0" y="0" width="124" height="131" frameX="-41" frameY="-9" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Up0001" x="124" y="0" width="124" height="128" frameX="-41" frameY="-12" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Up0002" x="248" y="0" width="122" height="125" frameX="-41" frameY="-15" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Up0003" x="0" y="131" width="124" height="123" frameX="-39" frameY="-17" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Right0000" x="244" y="369" width="122" height="107" frameX="-37" frameY="-34" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Right0001" x="0" y="369" width="118" height="108" frameX="-37" frameY="-33" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Right0002" x="466" y="0" width="117" height="111" frameX="-34" frameY="-30" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Right0003" x="241" y="254" width="116" height="113" frameX="-33" frameY="-28" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Down0000" x="370" y="113" width="94" height="103" frameX="-55" frameY="-39" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Down0001" x="466" y="222" width="92" height="106" frameX="-56" frameY="-36" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Down0002" x="466" y="111" width="96" height="111" frameX="-56" frameY="-31" frameWidth="200" frameHeight="140" />
+<SubTexture name="TitanoSaurus Down0003" x="370" y="0" width="96" height="113" frameX="-56" frameY="-29" frameWidth="200" frameHeight="140" />
+</TextureAtlas>

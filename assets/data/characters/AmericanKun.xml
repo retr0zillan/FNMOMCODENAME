@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="face" y="0" isGF="false" scale="9.8" isPlayer="false" antialiasing="false" sprite="AmericanKun">
+	<anim x="0" loop="false" y="0" fps="12" anim="AmericanKun Kunidle" name="idle"/>
+	<anim x="1" loop="false" y="0" fps="12" anim="AmericanKun KunUp" name="singUP"/>
+	<anim x="1" loop="false" y="0" fps="12" anim="AmericanKun KunLeft" name="singLEFT"/>
+	<anim x="1" loop="false" y="0" fps="12" anim="AmericanKun KunRight" name="singRIGHT"/>
+	<anim x="1" loop="false" y="0" fps="12" anim="AmericanKun KunDown" name="singDOWN"/>
+	<anim x="1" loop="false" y="0" fps="24" anim="AmericanKun KunAngryIdle" name="idle-hate"/>
+	<anim x="1" loop="false" y="0" fps="24" anim="AmericanKun KunAngryUp" name="singUP-hate"/>
+	<anim x="1" loop="false" y="0" fps="24" anim="AmericanKun KunAngryLeft" name="singLEFT-hate"/>
+	<anim x="1" loop="false" y="0" fps="24" anim="AmericanKun KunAngryRight" name="singRIGHT-hate"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="AmericanKun KunAngryDown" name="singDOWN-hate"/>
+	<anim x="1" loop="false" y="0" fps="24" anim="AmericanKun KunAngryIntro" name="introAngry"/>
+</character>

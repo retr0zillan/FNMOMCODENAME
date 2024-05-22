@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="mothra"  camy="1200" camx="700" flipX="true" y="0" isGF="false" scale="9" isPlayer="true" antialiasing="false" sprite="MOTHRA">
+	<anim x="-174" loop="false" y="-201" fps="12" anim="MOTHRA Idle" name="idle"/>
+	<anim x="-180" loop="false" y="-202" fps="12" anim="MOTHRA Up0" name="singUP"/>
+	<anim x="-168" loop="false" y="-190" fps="12" anim="MOTHRA Left0" name="singLEFT"/>
+	<anim x="-208" loop="false" y="-204" fps="12" anim="MOTHRA Right0" name="singRIGHT"/>
+	<anim x="-189" loop="false" y="-181" fps="12" anim="MOTHRA Down0" name="singDOWN"/>
+	<anim x="-180" loop="false" y="-189" fps="12" anim="MOTHRA UpMiss" name="singUPmiss"/>
+	<anim x="-168" loop="false" y="-189" fps="12" anim="MOTHRA Left Miss" name="singLEFTmiss"/>
+	<anim x="-203" loop="false" y="-209" fps="12" anim="MOTHRA RightMiss" name="singRIGHTmiss"/>
+	<anim x="-185" loop="false" y="-190" fps="12" anim="MOTHRA DownMiss" name="singDOWNmiss"/>
+</character>

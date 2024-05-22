@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" icon="moguera" y="200" isGF="false" scale="17.9" isPlayer="false" antialiasing="false" sprite="newmoguera">
+	<anim x="0" loop="false" y="0" fps="7" anim="Moguera Idle0" name="idle"/>
+	<anim x="1" loop="false" y="0" fps="12" anim="Moguera Up0" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="Moguera Left0" name="singLEFT"/>
+	<anim x="4" loop="false" y="0" fps="12" anim="Moguera Right0" name="singRIGHT"/>
+	<anim x="6" loop="false" y="0" fps="12" anim="Moguera Down0" name="singDOWN"/>
+	<anim x="2" loop="false" y="0" fps="12" anim="Moguera IdleGlitch" name="idle-glitch"/>
+	<anim x="1" loop="false" y="0" fps="12" anim="Moguera UpGlitch" name="singUP-glitch"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="Moguera LeftGlitch" name="singLEFT-glitch"/>
+	<anim x="4" loop="false" y="0" fps="12" anim="Moguera RightGlitch" name="singRIGHT-glitch"/>
+	<anim x="4" loop="false" y="0" fps="12" anim="Moguera DownGlitch" name="singDOWN-glitch"/>
+	<anim x="2" loop="false" y="0" fps="12" anim="Moguera DyingAnimation" name="dies"/>
+</character>

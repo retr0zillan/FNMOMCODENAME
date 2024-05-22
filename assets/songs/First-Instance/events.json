@@ -1,0 +1,138 @@
+{
+	"Event 17": [
+		{
+			"time": 21000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 21300,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		}
+	],
+	"Event 18": [
+		{
+			"time": 21600,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.03,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 21900,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.05
+					]
+				}
+			]
+		},
+		{
+			"time": 22050,
+			"events": [
+				{
+					"name": "Scroll Velocity",
+					"args": [
+						"constant",
+						1
+					]
+				}
+			]
+		},
+		{
+			"time": 22200,
+			"events": [
+				{
+					"name": "Scroll Velocity",
+					"args": [
+						"constant",
+						3.2
+					]
+				}
+			]
+		}
+	],
+	"Event 36": [
+		{
+			"time": 44100,
+			"events": [
+				{
+					"name": "Screen Shake",
+					"args": [
+						0.01,
+						1.5,
+						"XY"
+					]
+				}
+			]
+		}
+	],
+	"Event 40": [
+		{
+			"time": 48900,
+			"events": [
+				{
+					"name": "Screen Shake",
+					"args": [
+						0.01,
+						1.5,
+						"XY"
+					]
+				}
+			]
+		}
+	],
+	"Event 34": [
+		{
+			"time": 41700,
+			"events": [
+				{
+					"name": "Screen Shake",
+					"args": [
+						0.01,
+						1.5,
+						"XY"
+					]
+				}
+			]
+		}
+	],
+	"Event 38": [
+		{
+			"time": 46500,
+			"events": [
+				{
+					"name": "Screen Shake",
+					"args": [
+						0.01,
+						1.5,
+						"XY"
+					]
+				}
+			]
+		}
+	]
+}
