@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Redbeat.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="redbeat0000" x="0" y="0" width="257" height="240"/>
+	<SubTexture name="redbeat0001" x="0" y="0" width="257" height="240"/>
+	<SubTexture name="redbeat0002" x="257" y="0" width="257" height="240"/>
+	<SubTexture name="redbeat0003" x="257" y="0" width="257" height="240"/>
+	<SubTexture name="redbeat0004" x="514" y="0" width="257" height="240"/>
+	<SubTexture name="redbeat0005" x="514" y="0" width="257" height="240"/>
+	<SubTexture name="redbeat0006" x="514" y="0" width="257" height="240"/>
+	<SubTexture name="redbeat0007" x="0" y="240" width="257" height="240"/>
+	<SubTexture name="redbeat0008" x="0" y="240" width="257" height="240"/>
+	<SubTexture name="redbeat0009" x="0" y="240" width="257" height="240"/>
+	<SubTexture name="redbeat0010" x="257" y="240" width="257" height="240"/>
+	<SubTexture name="redbeat0011" x="257" y="240" width="257" height="240"/>
+	<SubTexture name="redbeat0012" x="514" y="240" width="257" height="240"/>
+	<SubTexture name="redbeat0013" x="514" y="240" width="257" height="240"/>
+</TextureAtlas>

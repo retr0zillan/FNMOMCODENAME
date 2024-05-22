@@ -1,0 +1,9 @@
+{
+	"params": [
+		{
+			"name": "Whats the layer?",
+			"type": "StrumLine",
+			"defaultValue": 0
+		}
+	]
+}

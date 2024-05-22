@@ -50,7 +50,20 @@ function makePixBar(group:FlxSpriteGroup, instance:Dynamic, value:String, baseCo
 			displayText.font = Paths.font('nes-godzilla.ttf');
 			group.add(displayText);
 		}
-		var nameText = new FlxText(daBg.x - 160, daBg.y - 53, 0, value == "health" ? game.boyfriend.curCharacter.toUpperCase() : game.dad.curCharacter.toUpperCase(), 20);
+		var enemyname = game.dad.curCharacter.toUpperCase();
+		var playername = game.boyfriend.curCharacter.toUpperCase();
+
+		var enemyIndex:Int = enemyname.indexOf("-");
+		var playerIndex:Int = playername.indexOf("-");
+
+		if (enemyIndex != -1) 
+			enemyname = enemyname.substring(0, enemyIndex);
+
+		if (playerIndex != -1) 
+			playername = playername.substring(0, playerIndex);
+
+
+		var nameText = new FlxText(daBg.x - 160, daBg.y - 53, 0, value == "health" ?playername : enemyname, 20);
 		nameText.alignment=FlxTextAlign.LEFT;
 		nameText.font = Paths.font('nes-godzilla.ttf');
 		group.add(nameText);
@@ -67,13 +80,18 @@ function makePixBar(group:FlxSpriteGroup, instance:Dynamic, value:String, baseCo
 
 	add(group);
 }
+var hudType=null;
 function create(){
 
 
 	var dedScript = Reflect.field(PlayState.SONG.meta.customValues, "deathscript");
+	 hudType = Reflect.field(PlayState.SONG.meta.customValues, "hudType");
+
+	if(hudType==null)
+		hudType = "default";
 	if(dedScript==null)
 		dedScript = "defaultgameover";
-	trace(dedScript);
+	trace(hudType);
 	GameOverSubstate.script = 'data/scripts/' + dedScript;
 	if(PlayState.isStoryMode){
 		for(i=>strumLine in SONG.strumLines){
@@ -167,7 +185,14 @@ function createStoryHud(){
 }
 function postCreate(){
 
-	if(PlayState.isStoryMode)createStoryHud();
+	switch(hudType){
+		case "mom": 
+			createStoryHud();
+		case "default": 
+			//nofing
+		case "none": 
+			healthBar.visible = healthBarBG.visible = iconP1.visible = iconP2.visible = false;
+	}
 	remove(scoreTxt);
 	remove(missesTxt);
 	remove(accuracyTxt);

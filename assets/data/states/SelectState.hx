@@ -1,8 +1,9 @@
+import funkin.editors.MapperState;
 import funkin.options.OptionsMenu;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import funkin.savedata.SaveGames;
 import funkin.editors.EditorPicker;
-
+import BoardCreatorState;
 var yeah:FlxText;
 var options:Array<String>=['PLAY', 'VAULT', 'SETTINGS', 'CREDITS', 'EXIT'];
 var listString:String = '';
@@ -72,6 +73,10 @@ function sel(k:Int=0){
 	sqr.y = opts.members[curS].y+8;
 }
 function update(elapsed:Float) {
+	if (FlxG.keys.justPressed.EIGHT)
+		{
+			FlxG.switchState(new BoardCreatorState());
+		}
 	if (FlxG.keys.justPressed.SEVEN) {
 		persistentUpdate = false;
 		persistentDraw = true;

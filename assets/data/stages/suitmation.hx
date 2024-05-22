@@ -8,9 +8,8 @@ import funkin.game.PlayState;
 var game = PlayState.instance;
 var overlayCam:FlxCamera;
 var vhs:CustomShader;
-var vortex:CustomShader;
-
 var glitch:CustomShader;
+var twirl:CustomShader;
 function create(){
 	importScript("data/scripts/loadsuitnotes");
 
@@ -47,9 +46,6 @@ function postCreate(){
 		camGame.addShader(vhs);
 
 	}
-	vortex = new CustomShader("vortexShader");
-	camGame.addShader(vortex);
-
 
 }
 function onPostNoteCreation(event) {  
@@ -90,6 +86,4 @@ function update(elapsed:Float){
 		glitch.iTime = updater;
 
 	}
-	vortex.iTime = updater;
-
 }

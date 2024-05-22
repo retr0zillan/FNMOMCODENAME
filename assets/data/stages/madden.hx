@@ -1,9 +1,11 @@
+import funkin.backend.shaders.CustomShader;
 import flixel.util.FlxTimer;
 import flixel.FlxCamera;
 import flixel.FlxG;
 import funkin.game.PlayState;
 var game = PlayState.instance;
 var overlayCam:FlxCamera;
+var absorb:CustomShader;
 function postCreate(){
 	boyfriend.playAnim("intro");
 	FlxG.cameras.add(overlayCam= new FlxCamera(), false);
@@ -63,7 +65,9 @@ function postCreate(){
 	insert(members.indexOf(boyfriend)+1, mygame);
 
 	game.stage.stageSprites.set("mygame",mygame);
+	absorb = new CustomShader("absorbShader");
 
+	camGame.addShader(absorb);
 }
 function beatHit(curBeat:Int){
 switch(curBeat){
@@ -74,7 +78,9 @@ switch(curBeat){
 		  });
 }
 }
+var updater:Float = 0;
 function update(elapsed:Float) {
 	FlxG.watch.addQuick("beat", curBeat);
-	
+	updater += elapsed;
+	absorb.time = updater;
 }

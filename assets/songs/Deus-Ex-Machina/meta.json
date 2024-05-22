@@ -3,5 +3,9 @@
 	"bpm": 190.0,
 	"icon": "bf",
 	"coopAllowed": false,
-	"opponentModeAllowed": false
+	"opponentModeAllowed": false,
+	"customValues": {
+		"deathscript": "gameoverscript",
+		"hudType": "default"
+	}
 }

@@ -31,6 +31,7 @@ var descriptionMap:Map<String, String>=[
 	Handicap (Handicap) is a sexual activity involving application of pain or constriction to the male genitals. This may involve directly painful activities, such as genital piercing, wax play, genital spanking, squeezing, ball-busting, genital flogging, urethral play, tickle torture, erotic electrostimulation or even kicking. The recipient of such activities may receive direct physical pleasure via masochism, or knowledge that the play is pleasing to a sadistic dominant.
 	Image: Electrostimulation applied on a penis",
 	"teeth" => "Normalizo panzones peludos con amor.",
+	
 
 ];
 var icons:Array<String>;

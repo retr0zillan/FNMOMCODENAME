@@ -5,6 +5,7 @@
 	"coopAllowed": false,
 	"opponentModeAllowed": false,
 	"customValues": {
-		"deathscript": "gameoverscript"
+		"deathscript": "gameoverscript",
+		"hudType": "mom"
 	}
 }

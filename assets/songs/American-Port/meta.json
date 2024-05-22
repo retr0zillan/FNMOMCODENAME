@@ -5,6 +5,7 @@
 	"coopAllowed": false,
 	"opponentModeAllowed": false,
 	"customValues": {
-		"deathscript": "americangameover"
+		"deathscript": "americangameover",
+		"hudType": "default"
 	}
 }
